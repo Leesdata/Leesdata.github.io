@@ -7,7 +7,7 @@ has_children: true
 
 ---
 
-# Hello and thank you for visiting!
+## Hello and thank you for visiting!
 
 {: .no_toc }
 
