@@ -8,7 +8,6 @@ has_children: true
 ---
 
 ## Hello and thank you for visiting!
-
 {: .no_toc }
 
 <details open markdown="block">
