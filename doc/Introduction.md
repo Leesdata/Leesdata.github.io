@@ -75,7 +75,7 @@ I believe in the power of data as a tool to gain insights about people and organ
    - Washington, DC (Remote)
    - Roles
    
-- Chief Strategy Officer Assistant at QANDA ([website](https://qanda.ai/en), [Google play](https://play.google.com/store/apps/details?id=com.mathpresso.qanda&hl=en_US&gl=US)) 
+- Chief Strategy Officer Assistant at [QANDA](https://qanda.ai/en) ([Google play](https://play.google.com/store/apps/details?id=com.mathpresso.qanda&hl=en_US&gl=US)) 
    - 2021.11 - 2022.1
    - Seoul, South Korea
    - Roles
