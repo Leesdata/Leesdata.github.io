@@ -23,7 +23,20 @@ has_children: true
 
 ## About me
 
-(WIP) Introductory sentences
+(WIP)
+
+I believe in the power of data as a tool to gain insights about people and organizations. My eagerness to develop proficiency with data tools comes from the desire to understand the status quo and strategize for the future. I aspire to be an experienced problem-solver and communicator, focusing on data visualization and technology implementation. With interdisciplinary background (social science, business, information science) and technical skill sets (R, Python, Tableau), I look for opportunities to exert my passion for analytics and innovation across sectors.
+
+----
+
+## Education
+- University of Chicago, Master in Public Policy (MPP), Data Analytics path (STEM major)
+  - Harris School of Public Policy
+  - 3-year STEM OPT eligible
+
+- Seoul National University, Bacherlor of Arts
+  - Major: International Relations, Informational Science and Culture (ISC)
+  - Minor: Business
 
 ---
 
