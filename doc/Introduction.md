@@ -62,7 +62,7 @@ I believe in the power of data as a tool to gain insights about people and organ
 **3. Tableau**
 - To be added
 
-**4. SQL **
+**4. SQL**
 - Self-study
 - DataQuest certificates (on [Linkedin certificate section](https://www.linkedin.com/in/lee-kyung-ko/))
 
