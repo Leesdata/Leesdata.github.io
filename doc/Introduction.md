@@ -7,7 +7,8 @@ has_children: true
 
 ---
 
-## Hello and thank you for visiting!
+## Hello, thank you for visiting!
+## My name is Lee. Let me introduce myself
 {: .no_toc }
 
 <details open markdown="block">
@@ -23,8 +24,6 @@ has_children: true
 
 ## About me
 
-(WIP)
-
 I believe in the power of data as a tool to gain insights about people and organizations. My eagerness to develop proficiency with data tools comes from the desire to understand the status quo and strategize for the future. I aspire to be an experienced problem-solver and communicator, focusing on data visualization and technology implementation. With interdisciplinary background (social science, business, information science) and technical skill sets (R, Python, Tableau), I look for opportunities to exert my passion for analytics and innovation across sectors.
 
 ----
@@ -35,36 +34,17 @@ I believe in the power of data as a tool to gain insights about people and organ
   - 3-year STEM OPT eligible
 
 - Seoul National University, Bacherlor of Arts
-  - Major: International Relations, Informational Science and Culture (ISC)
+  - Double Major
+    1. International Relations
+        - Interested in how new technologies affect the traditional international relations
+        - Undergrad thesis on how the application of Blockchain can affect the conventional international relations organizations and treaties
+    3. Informational Science and Culture (ISC) 
+        - Project based classes to make outputs by hand. Used basic coding (python, CSS, HTML, Ruby etc)
+        - Designed services and prototyped applications as a team
   - Minor: Business
-
----
-
-## Projects
-
-**1. Python** 
-- Intro to Machine Learning (scikit-learn)
-  * [Telecom churn prediction (individual project)](https://github.com/Leesdata/project_harris/tree/main/python/ML_telecom_churn)
-  * [Airline passenger satisfaction prediction (team project)](https://github.com/Leesdata/project_harris/tree/main/python/ML_airline_satisfaction)
-
-
-**2. R**
-- Data and Progamming for Public Policy I, II
-  * [Sample assignment #1 (group work)](https://github.com/Leesdata/project_harris/tree/main/R/1_traffic_jam_examination) : Analyzed real-world traffic data to analyze when and where in Chicago area are traffic jam alerts concentrated. Focused on the graphical demonstration of the time and map information. (ggplot, ggmap)
-  
-  * [Sample assignment #2 (group work)](https://github.com/Leesdata/project_harris/tree/b9e7319172d7f30def16badf6615c619c03710f0/R/2_energy_consumption_project) :  Exploratory analysis on the US household energy data by region/household type, focusing on data wrangling from multiple data sources, natural language processing (NLP), web scraping, and basic Shiny app application. 
-  
-- Program Evaluation
-  * [Sample assignment (individual work)](https://github.com/Leesdata/project_harris/tree/main/R/3_program_evaluation) attempted to replicate an academic paper's findings on the effect of policy intervention targeted at newborn babies regarding their birthweight and mortality/health outcomes. Presented statistical understanding of the research. 
-
-
-**3. Tableau**
-- To be added
-
-**4. SQL**
-- Self-study
-- DataQuest certificates (on [Linkedin certificate section](https://www.linkedin.com/in/lee-kyung-ko/))
-
+        - Informational system management
+        - Financial accounting
+        - Operational management
 
 ---
 
@@ -88,6 +68,50 @@ I believe in the power of data as a tool to gain insights about people and organ
    - 2018.1 - 2018. 6
    - Washington, DC
    - Roles
+
+---
+
+## Skill sets
+
+Although I am at early stage of my professional career, following are the list of skills that I find myself good at from previous experiences.
+I look forward to learning more and in breadth and depth and identify my distinctive strengths.
+##### Key words
+##### : Data Analytics, Statistical Programming, Market Research, Strategic Planning, Program Management, Visualiation, Communication, Interdiscplinary Understanding
+
+- Data Analytics (Python, R, SQL, Tableau)
+  - Descriptive analysis, Regression
+  - Visualization 
+  - Machine Learning (Using existing models with parameter tuning)
+
+- Quantitative Research
+  - Statistical Inference, Statistical programming
+  - Understanding and interpreting implications of studies using quantitative methodologies
+
+- MS Excel model building
+  - Optimization: Solver
+  - Simulation: @Risk
+  - Scenario calculation: PrecisionTree 
+
+- Project Management
+
+- Independent worker & Reliable Team player
+
+- Communication, delivery
+  - PowerPoint
+  - Knowledge-Sharing via documentation
+ 
+- Adobe toolkits
+  - Photoshop
+  - Illustrator
+  - After Effects (basic)
+  - Premiere Pro (basic)
+  - XD (mobile app design, basic)
+
+
+
+
+
+
 
 
  
