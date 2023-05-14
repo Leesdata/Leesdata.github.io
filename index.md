@@ -1,5 +1,5 @@
 ---
-title: Template Info
+title: home
 layout: home
 ---
 
