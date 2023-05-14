@@ -50,7 +50,7 @@ I believe in the power of data as a tool to gain insights about people and organ
 
 ---
 
-## Work Experience
+## Work experience
 - State and Federal Policy Intern at [Results for America] (https://results4america.org/) 
    - 2022.6 - 2022.9
    - Washington, DC (Remote)
