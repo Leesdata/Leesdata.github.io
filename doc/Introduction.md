@@ -7,8 +7,7 @@ has_children: true
 
 ---
 
-## Hello, thank you for visiting!
-## My name is Lee. Let me introduce myself
+## Hello, thank you for visiting! My name is Lee. Let me introduce myself
 {: .no_toc }
 
 <details open markdown="block">
@@ -25,6 +24,8 @@ has_children: true
 ## About me
 
 I believe in the power of data as a tool to gain insights about people and organizations. My eagerness to develop proficiency with data tools comes from the desire to understand the status quo and strategize for the future. I aspire to be an experienced problem-solver and communicator, focusing on data visualization and technology implementation. With interdisciplinary background (social science, business, information science) and technical skill sets (R, Python, Tableau), I look for opportunities to exert my passion for analytics and innovation across sectors.
+
+* Link to [Linkedin profile](https://www.linkedin.com/in/lee-kyung-ko/)
 
 ----
 
