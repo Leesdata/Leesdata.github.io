@@ -77,8 +77,9 @@ I believe in the power of data as a tool to gain insights about people and organ
 
 Although I am at early stage of my professional career, following are the list of skills that I find myself good at from previous experiences.
 I look forward to learning more and in breadth and depth and identify my distinctive strengths.
-##### Key words
-##### : Data Analytics, Statistical Programming, Market Research, Strategic Planning, Program Management, Visualiation, Communication, Interdiscplinary Understanding
+
+* **Key words**
+: Data Analytics, Statistical Programming, Market Research, Strategic Planning, Program Management, Visualiation, Communication, Interdiscplinary Understanding
 
 - Data Analytics (Python, R, SQL, Tableau)
   - Descriptive analysis, Regression
