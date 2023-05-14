@@ -7,7 +7,8 @@ has_children: true
 
 ---
 
-## Hello, thank you for visiting! My name is Lee. Let me introduce myself
+## Hello, thank you for visiting. My name is Lee!
+The followings are some information about what I think and put into action. Hope it helps you start getting to know me. I'm always to connect and chat:)
 {: .no_toc }
 
 <details open markdown="block">
