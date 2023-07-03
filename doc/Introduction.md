@@ -39,72 +39,91 @@ I believe in the power of data as a tool to gain insights about people and organ
   - Double Major
     1. International Relations
         - Interested in how new technologies affect the traditional international relations
-        - Undergrad thesis on how the application of Blockchain can affect the conventional international relations organizations and treaties
-    3. Informational Science and Culture (ISC) 
-        - Project based classes to make outputs by hand. Used basic coding (python, CSS, HTML, Ruby etc)
-        - Designed services and prototyped applications as a team
-  - Minor: Business
-        - Informational system management
-        - Financial accounting
-        - Operational management
+        - Undergrad thesis on how the application of Blockchain can affect conventional international relations organizations and treaties
+
+    2. Informational Science and Culture (ISC) 
+        - Project-based classes to make outputs by hand. Used basic coding (python, CSS, HTML, Ruby, etc)
+        - Designed mobile platform services and prototyped web/app applications as a team member
+        - Experience in human-centered design, User/Expert interviews, creating and presenting narratives
+          
+  - Minor: Business Administration
+    - Informational System management
+    - Operational Management
+    - Financial Accounting
 
 ---
 
 ## Work experience
-- State and Federal Policy Intern at [Results for America] (https://results4america.org/) 
+- Policy Analyst Intern at [Results for America](https://results4america.org/) 
    - 2022.6 - 2022.9
-   - Washington, DC (Remote)
+   - Washington, DC, USA (Remote)
    - Roles
+     - Partnered with Senior Policy Manager on State Policy Team on policy analysis and communication work
+     - Analyzed data governance maturity and data management policies of 41 state governments
+     - Provided best practice recommendations on state government partners regarding how to improve data management structure
+     - Researched federal agencies' data management policies and wrote proposals for more quantifiable data-driven program assessment
+     - Request for Proposal (RFP) reading and in-depth policy research
    
-- Chief Strategy Officer Assistant at [QANDA](https://qanda.ai/en) ([Google play](https://play.google.com/store/apps/details?id=com.mathpresso.qanda&hl=en_US&gl=US)) 
+- Strategy Analyst (Chief Strategy Officer Assistant) at [QANDA](https://qanda.ai/en) ([Google play](https://play.google.com/store/apps/details?id=com.mathpresso.qanda&hl=en_US&gl=US)) 
    - 2021.11 - 2022.1
    - Seoul, South Korea
    - Roles
+     - Provided analytical support for establishing the company's strategic goals, based on competitive market research and macro trend analyses
+     - Wrote strategic memos based on benchmark players' research (Business Development, Competitive Analysis, HR)
+     - Created documents and visualizations for knowledge sharing and executive presentations
+     - Supported setting up new product strategies and operational timelines for entering new markets
 
 - Research Analyst at [Boston Consulting Group](https://www.bcg.com/) 
    - 2021.4 - 2021. 7
    - Seoul, South Korea
    - Roles
+     - Supported a full cycle of the new business development project, from proposal to delivery phase
+     - Monitored market trends, provided the team with industry insights, and synthesized information in a timely and organized manner
+     - Prepared and participated in multiple interviews with experts and user groups. Documented key insights with the team
+     - Drafted, elaborated, and reviewed deliverables for the client meeting (PPT, Excel)
 
-- Cybersecurity Initiative Intern at [New America](https://www.newamerica.org/) (non-partisan think tank) 
+- Cybersecurity Research Intern at [New America](https://www.newamerica.org/) (non-partisan think tank) 
    - 2018.1 - 2018. 6
-   - Washington, DC
+   - Washington, DC, USA
    - Roles
+     - Provided research support for senior analysts at the Cybersecurity Initiative team (Literature review, following up on recent incidents)
+     - Wrote [a blog post](https://www.newamerica.org/cybersecurity-initiative/c2b/c2b-log/north-korea-geopolitical-cyber-incidents-timeline/) on the organization's website that interpreted North Korea's cyber activities from a geopolitical perspective
+     - Managed and streamlined the logistics of the team, including tracking non-resident scholar's work, sharing weekly updates, setting up external meetings
 
 ---
 
 ## Skill sets
 
-Although I am at early stage of my professional career, following are the list of skills that I find myself good at from previous experiences.
-I look forward to learning more and in breadth and depth and identify my distinctive strengths.
+Although I am at an early stage of my professional career, the following are the list of skills that I find myself good at from previous experiences.
+I look forward to learning more in breadth and depth and identifying my distinctive strengths.
 
-**Key words**
-: Data Analytics, Statistical Programming, Market Research, Strategic Planning, Program Management, Visualiation, Communication, Interdiscplinary Understanding
+**Keywords**
+: Data Analytics, Statistical Programming, Market Research, Policy Analysis, Program Assessment, Strategic Planning, Project Management, Data Visualization, Communication, Interdisciplinary Research
 
-- **Data Analytics** (Python, R, SQL, Tableau)
+
+**Data Analytics** 
+(Python, R, SQL, Tableau)
   - Descriptive analysis, Regression
   - Visualization 
   - Machine Learning (Using existing models with parameter tuning)
 
-- **Quantitative Research**
+**Quantitative Research**
   - Statistical Inference, Statistical programming
   - Understanding and interpreting implications of studies using quantitative methodologies
 
-- **Model building**
+**Model building**
   - Tool: MS Excel
   - Optimization: Solver
   - Simulation: @Risk
   - Scenario calculation: PrecisionTree 
 
-- **Project Management**
+**Project Management**
 
-- **Independent & Team player**
+**Independent & Team player**
 
-- **Communication, delivery**
-  - PowerPoint
-  - Knowledge-Sharing via documentation
+**Communication, delivery**
  
-- **Adobe toolkits**
+**Adobe toolkits**
   - Photoshop
   - Illustrator
   - After Effects (basic)
