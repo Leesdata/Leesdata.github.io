@@ -2,8 +2,8 @@
 layout: default
 title: Project
 nav_order: 4
-has_children: true
-#has_toc: true
+## has_children: true
+## has_toc: true
 
 ---
 
