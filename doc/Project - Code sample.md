@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project
+title: Project (Code sample)
 nav_order: 4
 ## has_children: true
 ## has_toc: true
