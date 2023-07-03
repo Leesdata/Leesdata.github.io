@@ -7,7 +7,7 @@ has_children: true
 
 ---
 
-## Hello, thank you for visiting. My name is Lee! {: .no_toc }
+## Hello, thank you for visiting. My name is Lee!{: .no_toc }
 The followings are some information about what I think and put into action. Hope it helps you start getting to know me. I'm always to connect and chat:)
 {: .no_toc }
 
