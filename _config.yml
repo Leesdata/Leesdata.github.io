@@ -6,7 +6,7 @@ description: Introduction to Lee
 baseurl: https://leesdata.github.io
 
 #theme: “just-the-docs”
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
 
 #repository: just-the-docs/just-the-docs # for github-metadata
 
