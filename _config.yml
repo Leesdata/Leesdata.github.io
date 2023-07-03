@@ -4,12 +4,12 @@ description: Introduction to Lee
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://leesdata.github.io
 
-#theme: “just-the-docs”
-remote_theme: pmarsceill/just-the-docs
+theme: “just-the-docs”
+#remote_theme: pmarsceill/just-the-docs
 
 #repository: just-the-docs/just-the-docs # for github-metadata
 
-permalink: pretty
+#permalink: pretty
 
 
 
