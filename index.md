@@ -12,7 +12,7 @@ Thank you for visiting. I hope this website helps you start getting to know me. 
 
 
 
-## About me in brief
+## About me
 
 I believe in the power of data as a tool to gain insights about people and organizations. 
 
