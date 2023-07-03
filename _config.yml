@@ -3,7 +3,7 @@ description: Introduction to Lee
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 
-url: https://leesdata.github.io
+baseurl: https://leesdata.github.io
 
 #theme: “just-the-docs”
 remote_theme: pmarsceill/just-the-docs
