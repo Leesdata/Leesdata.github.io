@@ -1,8 +1,35 @@
 title: Lee Ko
 description: Introduction to Lee
-remote_theme: pmarsceill/just-the-docs
 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://leesdata.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+theme: “just-the-docs”
+
+repository: just-the-docs/just-the-docs # for github-metadata
+
+permalink: pretty
+
+
+
+#logo: "/assets/images/just-the-docs.png"
+
+#aux_links:  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+
+
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Just the Docs
+description: A Jekyll theme for documentation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: just-the-docs/just-the-docs # for github-metadata
+
+permalink: pretty
+
