@@ -7,7 +7,7 @@ nav_order: 5
 
 ---
 
-## Skill sets
+## Skill Sets
 
 Although I am at an early stage of my professional career, the following are the list of skills that I find myself good at from previous experiences.
 I look forward to learning more in breadth and depth and identifying my distinctive strengths.
