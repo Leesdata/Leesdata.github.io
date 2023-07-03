@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Experience
+title: Work Experience
 nav_order: 3
 ## has_children: true
 ## has_toc: true
 
 ---
 
-## Work experience
+## Work Experience
 - Policy Analyst Intern at [Results for America](https://results4america.org/) 
    - 2022.6 - 2022.9
    - Washington, DC, USA (Remote)
