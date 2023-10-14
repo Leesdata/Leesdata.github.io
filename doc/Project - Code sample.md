@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project (Code sample)
+title: Project (Code sample) -- Turned private. **Please reach out to lee.ko.leekyung@gmail.com for sample codes**
 nav_order: 4
 ## has_children: true
 ## has_toc: true
