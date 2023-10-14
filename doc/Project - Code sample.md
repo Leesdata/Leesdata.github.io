@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Project (Code sample) -- Turned private. **Please reach out to lee.ko.leekyung@gmail.com for sample codes**
+title: Project (Code sample) 
 nav_order: 4
 ## has_children: true
 ## has_toc: true
 
 ---
 
-## Projects
+## Projects -- Turned private. **Please reach out to lee.ko.leekyung@gmail.com for sample codes**
 
 **1. Python** 
 - Intro to Machine Learning (scikit-learn)
